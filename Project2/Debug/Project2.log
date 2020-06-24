@@ -1,0 +1,7 @@
+﻿  Źródło.cpp
+C:\Users\Jedrek\Desktop\Projekt\Project2\Źródło.cpp(37,15): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\Jedrek\Desktop\Projekt\Project2\Źródło.cpp(39,9): warning C4101: "option1": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Jedrek\Desktop\Projekt\Project2\Źródło.cpp(116,13): warning C4551: wywołaniu funkcji brakuje listy argumentów
+C:\Users\Jedrek\Desktop\Projekt\Project2\Źródło.cpp(200,58): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\Jedrek\Desktop\Projekt\Project2\Źródło.cpp(282,21): warning C4551: wywołaniu funkcji brakuje listy argumentów
+  Project2.vcxproj -> C:\Users\Jedrek\Desktop\Projekt\Debug\Project2.exe
